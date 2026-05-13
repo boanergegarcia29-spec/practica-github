@@ -15,3 +15,5 @@ Aplicar el uso de repositorios, commits, ramas y Pull Request.
 
 ## Cómo revisar
 Entrar a la carpeta semana-01 y revisar el archivo.
+## Mejora del README
+Se agregó más información desde la rama mejora-readme.
